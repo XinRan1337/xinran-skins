@@ -4,7 +4,7 @@
 > Last updated: 2024/11/19
 ## [OSU!](https://osu.ppy.sh/users/21277276)
 
-# [Aristia Edited](https://github.com/XinRan1337/xinran-skins/blob/main/Aristia.md)
+# [Aristia Edited (lots of version)](https://github.com/XinRan1337/xinran-skins/blob/main/Aristia.md)
 
 # [-.Snowy.DT.blue.cursor.osk](https://github.com/XinRan1337/xinran-skins/releases/download/osu!/-.Snowy.DT.blue.cursor.osk)
 ![-  Snowy DT _blue cursor_.png](https://s2.loli.net/2024/11/19/I2NTrABQcGUFXdS.png)
