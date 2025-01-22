@@ -2,7 +2,7 @@
 > [!NOTE]
 > The most of skins have been edited by me and are not originals
 > **Last updated: 2024/11/19** yyyy/mm/dd
-## [OSU!](https://osu.ppy.sh/users/21277276) / [Bilibili](https://space.bilibili.com/19424256)
+## [OSU!](https://osu.ppy.sh/users/21277276) / [Bilibili](https://space.bilibili.com/19424256) / [Twitch](https://www.twitch.tv/xinran1337)
 
 # [Aristia Edited (lots of version)](https://github.com/XinRan1337/xinran-skins/blob/main/Aristia.md)
 
